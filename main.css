@@ -1,0 +1,92 @@
+body {
+	background-color: #e6e6fa;
+  	margin: 0 auto;
+}
+
+.resume-header-block {
+	background-color: #bfbff2;
+  	text-align: left;
+  	width: 100%;
+  	position: absolute;
+}
+
+.description {
+	margin: 70px;
+}
+
+img {
+	border: 6px solid #461475;
+	border-radius: 15px 100px 15px 100px;
+	margin: 20px 50px;
+	float: left; 
+}
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #141466;
+}
+
+h3 {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #1d1d91;
+}
+
+p {
+	font-family: sans-serif;
+	color: #00008b;
+}
+
+.resume-block-description {
+	font-style: italic;
+	font-family: sans-serif;
+	line-height: 1.75;
+
+}
+
+.resume-content {
+	padding: 25px;
+	width: 100%;
+	position: relative;
+	top: 325px;
+}
+
+.resume-block-title {
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #461475;
+}
+
+.resume-block-gap {
+	background-color: #bfbff2;
+	padding: 10px;
+	margin: 30px;
+}
+
+.organisation {
+	font-size: 18px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #461475;
+}
+
+.resume-block_sub-title {
+	font-size: 16px;
+	font-family: sans-serif;
+	line-height: 1.5;
+	margin: 10px;
+}
+
+.skills {
+	padding: 10px;
+	margin: 20px;
+	background-color: #bfbff2;
+}
+
+span {
+	background-color: #9494eb;
+	padding: 20px 30px;
+	margin: 20px 10px;
+}
